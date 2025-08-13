@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "999275270206",
+    "project_number": "------------",
     "project_id": "mc-sumudustodolist",
     "storage_bucket": "mc-sumudustodolist.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:999275270206:android:00f47e2ea14ed37919016f",
+        "mobilesdk_app_id": "your id"
         "android_client_info": {
           "package_name": "lk.kdu.ac.mc.sumudustodolist"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBiM16Eh9dp0_E6b7D-8t64va9VE2z1Cgg"
+          "current_key": "your firebase API Key"
         }
       ],
       "services": {
